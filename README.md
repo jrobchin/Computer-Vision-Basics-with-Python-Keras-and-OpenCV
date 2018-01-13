@@ -2,6 +2,8 @@
 
 This was created as part of an educational for the [Western Founders Network](https://foundersnetwork.ca/) computer vision and machine learning educational session.
 
+## Demo
+
 The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) and below:
 
 <a href="https://imgflip.com/gif/22n3o6"><img src="https://i.imgflip.com/22n3o6.gif"/></a>
