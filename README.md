@@ -34,3 +34,71 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
   - Preparing Data for Training
   - Training the Network
   - Plotting Model History
+  
+## Installation Instructions
+### Windows:
+* Install Anaconda (https://www.anaconda.com/download/) or Miniconda (https://conda.io/miniconda.html) to save hard drive space
+* Start an Anaconda Prompt. (Search Anaconda in the start menu.)
+#### Option 1: Exact source package installs
+* Using the spec-file.txt provided install identical packages and run
+
+        $ conda create --name [ENV_NAME] --file spec-file.txt # create new env with same packages
+    or
+
+        $ conda install --name [ENV_NAME] --file spec-file.txt # install packages into an existing env
+* Then activate the environment
+
+        $ activate cv
+* Install OpenCV3 (https://opencv.org/)
+    - Download whl file https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+    - Download “opencv_python 3.4.0+contrib cp35 cp35m win32.whl” or “opencv_python 3.4.0+contrib cp35 cp35m win_amd64.whl” for 32bit and 64bit respectively
+    - Install package
+
+          $ pip install [file path]
+#### Option 2: Package installs
+* Using the environment.yml file provided, run
+
+        $ conda create -n cv --file environment.yml
+* Activate the environment
+
+        $ activate cv
+* Install OpenCV3 (https://opencv.org/)
+    - Download whl file https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+    - Download “opencv_python 3.4.0+contrib cp35 cp35m win32.whl” or “opencv_python 3.4.0+contrib cp35 cp35m win_amd64.whl” for 32bit and 64bit respectively
+    - Install the package
+
+          $ pip install [file path]
+#### Option 3: Manually installing packages
+* Create and activate a Python 3.5 conda environment called cv.
+
+        $ conda create -n cv python=3.5
+
+        $ activate cv
+* Install Numpy (http://www.numpy.org/)
+
+        $ conda install numpy
+* Install Matplotlib (https://matplotlib.org/)
+
+        $ conda install matplotlib
+* Install Keras (https://keras.io/) 
+
+        $ conda install keras
+    - This should also install tensorflow
+* Install h5py (http://www.h5py.org/)
+
+        $ conda install h5py
+* Install OpenCV3 (https://opencv.org/)
+    - Download whl file https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+    - Download “opencv_python 3.4.0+contrib cp35 cp35m win32.whl” or “opencv_python 3.4.0+contrib cp35 cp35m win_amd64.whl” for 32bit and 64bit respectively
+    - Install package
+
+          $ pip install [file path]
+* Install Jupyter Notebook (http://jupyter.org/)
+
+        $ conda install jupyter notebook
+* Install IPython (https://ipython.org/)
+
+        $ conda install ipython
+* (Optional) Install pyautogui – If you want to run the mouse control demo, you will need this package (https://pyautogui.readthedocs.io/en/latest/)
+
+        $ pip install pyautogui
