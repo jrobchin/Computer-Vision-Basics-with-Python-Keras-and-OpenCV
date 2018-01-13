@@ -2,9 +2,9 @@
 
 This was created as part of an educational for the [Western Founders Network](https://foundersnetwork.ca/) computer vision and machine learning educational session.
 
-The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8):
+The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) and below:
 
-![Demo Gif](https://imgflip.com/gif/22n3o6)
+<a href="https://imgflip.com/gif/22n3o6"><img src="https://i.imgflip.com/22n3o6.gif"/></a>
 
 ## Contents
 Computer-Vision-Basics-with-Python-Keras-and-OpenCV.ipynb contains a full tutorial of basic computer vision and machine learning concepts, including:
