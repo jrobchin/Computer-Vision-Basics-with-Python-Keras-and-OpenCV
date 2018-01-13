@@ -40,12 +40,12 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 * Install Anaconda (https://www.anaconda.com/download/) or Miniconda (https://conda.io/miniconda.html) to save hard drive space
 * Start an Anaconda Prompt. (Search Anaconda in the start menu.)
 #### Option 1: Exact source package installs
-* Using the spec-file.txt provided install identical packages and run
+* Use the spec-file.txt provided, install identical packages
 
-        $ conda create --name [ENV_NAME] --file spec-file.txt # create new env with same packages
-    or
+        $ conda create -n [ENV_NAME] --file spec-file.txt # create new env with same packages
+    or, if you have an existing environment
 
-        $ conda install --name [ENV_NAME] --file spec-file.txt # install packages into an existing env
+        $ conda install -n [ENV_NAME] --file spec-file.txt # install packages into an existing env
 * Then activate the environment
 
         $ activate cv
@@ -59,6 +59,9 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 * Using the environment.yml file provided, run
 
         $ conda create -n cv --file environment.yml
+    or, if you have an existing environment
+
+        $ conda install -n [ENV_NAME] --file spec-file.txt # install packages into an existing env
 * Activate the environment
 
         $ activate cv
