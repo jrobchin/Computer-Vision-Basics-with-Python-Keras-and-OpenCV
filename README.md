@@ -25,7 +25,7 @@ Computer-Vision-Basics-with-Python-Keras-and-OpenCV.ipynb contains a full tutori
   - Finding and sorting contours
 * Tracking
 * (Deep) Neural Networks 
-* (Deep) Convolutiional Neural Networks
+* (Deep) Convolutional Neural Networks
 * Demo Project: Gesture Recognition
   - Extracting the subject
   - Tracking the hand
