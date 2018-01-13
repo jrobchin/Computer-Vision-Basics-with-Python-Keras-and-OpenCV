@@ -102,6 +102,4 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 * Install IPython (https://ipython.org/)
 
         $ conda install ipython
-* (Optional) Install pyautogui – If you want to run the mouse control demo, you will need this package (https://pyautogui.readthedocs.io/en/latest/)
 
-        $ pip install pyautogui
