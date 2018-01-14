@@ -1,4 +1,4 @@
-# Computer Vision Basics with Python Keras and OpenCV
+# Computer Vision Basics with Python, Keras and OpenCV
 
 This was created as part of an educational for the [Western Founders Network](https://foundersnetwork.ca/) computer vision and machine learning educational session.
 
