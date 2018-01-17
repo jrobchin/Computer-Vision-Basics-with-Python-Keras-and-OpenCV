@@ -126,7 +126,7 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 
         $ conda create -n cv python=3.5
 
-        $ activate cv
+        $ source activate cv
 * Install Numpy (http://www.numpy.org/)
 
         $ conda install numpy
