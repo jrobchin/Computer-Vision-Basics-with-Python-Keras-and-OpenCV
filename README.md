@@ -35,7 +35,7 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
   - Training the Network
   - Plotting Model History
   
-## Installation Instructions
+## Installation Instructions ('$' means run this in terminal/command prompt, do not type '$')
 ### Windows:
 * Install Anaconda (https://www.anaconda.com/download/) or Miniconda (https://conda.io/miniconda.html) to save hard drive space
 * Start an Anaconda Prompt. (Search Anaconda in the start menu.)
@@ -103,7 +103,25 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 
         $ conda install ipython
         
-#### Mac/Linux: Manually installing packages
+### Mac/Linux: Manually installing packages
+* Install Anaconda (https://www.anaconda.com/download/) or Miniconda (https://conda.io/miniconda.html) to save hard drive space
+#### Mac:
+* For Miniconda, open terminal and navigate to the directory you downloaded Miniconda3-latest-MacOSX-x86_64.sh to and run:
+
+        $ bash Miniconda3-latest-MacOSX-x86_64.sh
+
+* For Anaconda, double click the Anaconda3-5.0.1-MacOSX-x86_64.pkg file you downloaded
+
+#### Linux:
+* For Miniconda, open a terminal and navigate to the directory you downloaded Miniconda3-latest-MacOSX-x86_64.sh to and run:
+
+        $ bash Miniconda3-latest-MacOSX-x86_64.sh
+
+* For Anaconda, open a terminal and navigate to the directory you downloaded Miniconda3-latest-MacOSX-x86_64.sh to and run:
+
+        $ bash Anaconda3-5.0.1-Linux-x86_64.sh
+
+#### Both
 * Create and activate a Python 3.5 conda environment called cv.
 
         $ conda create -n cv python=3.5
