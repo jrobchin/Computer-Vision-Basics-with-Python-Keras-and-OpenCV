@@ -121,7 +121,7 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 
         $ bash Anaconda3-5.0.1-Linux-x86_64.sh
 
-#### Both
+#### Both:
 * Create and activate a Python 3.5 conda environment called cv.
 
         $ conda create -n cv python=3.5
