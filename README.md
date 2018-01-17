@@ -61,7 +61,7 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
         $ conda create -n cv --file environment.yml
     or, if you have an existing environment
 
-        $ conda install -n [ENV_NAME] --file spec-file.txt # install packages into an existing env
+        $ conda install -n [ENV_NAME] --file environment.yml # install packages into an existing env
 * Activate the environment
 
         $ activate cv
