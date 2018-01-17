@@ -102,4 +102,32 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 * Install IPython (https://ipython.org/)
 
         $ conda install ipython
+        
+#### Mac/Linux: Manually installing packages
+* Create and activate a Python 3.5 conda environment called cv.
 
+        $ conda create -n cv python=3.5
+
+        $ activate cv
+* Install Numpy (http://www.numpy.org/)
+
+        $ conda install numpy
+* Install Matplotlib (https://matplotlib.org/)
+
+        $ conda install matplotlib
+* Install Keras (https://keras.io/) 
+
+        $ conda install keras
+    - This should also install tensorflow
+* Install h5py (http://www.h5py.org/)
+
+        $ conda install h5py
+* Install Jupyter Notebook (http://jupyter.org/)
+
+        $ conda install jupyter notebook
+* Install IPython (https://ipython.org/)
+
+        $ conda install ipython
+* Install OpenCV3 (https://opencv.org/)
+        
+        $ conda install -c conda-forge opencv 
