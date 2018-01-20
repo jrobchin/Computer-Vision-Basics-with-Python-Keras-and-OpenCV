@@ -1,5 +1,5 @@
 # Tutorial: Computer Vision and Machine Learning with Python, Keras and OpenCV
-#### Includes a demonstration of concepts with Gesture Recognition.
+### Includes a demonstration of concepts with Gesture Recognition.
 This was created as part of an educational for the [Western Founders Network](https://foundersnetwork.ca/) computer vision and machine learning educational session.
 
 ## Demo
