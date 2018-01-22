@@ -9,7 +9,7 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 <a href="https://imgflip.com/gif/22n3o6"><img src="https://i.imgflip.com/22n3o6.gif"/></a>
 
 ## Contents
-[Computer-Vision-Basics-with-Python-Keras-and-OpenCV.ipynb](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV/blob/master/Computer-Vision-Basics-with-Python-Keras-and-OpenCV.ipynb) contains a full tutorial of basic computer vision and machine learning concepts, including:
+[notebook.ipynb](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV/blob/master/notebook.ipynb) contains a full tutorial of basic computer vision and machine learning concepts, including:
 
 * *What computers see*
 * Image Filters and Functions
