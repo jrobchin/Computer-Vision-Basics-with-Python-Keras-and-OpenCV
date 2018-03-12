@@ -149,3 +149,7 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 * Install OpenCV3 (https://opencv.org/)
         
         $ conda install -c conda-forge opencv 
+    
+    if the `import cv2` does not work with this install, try instead:
+    
+        $ conda install -c https://conda.anaconda.org/menpo opencv3
