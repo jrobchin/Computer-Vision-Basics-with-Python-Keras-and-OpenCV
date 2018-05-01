@@ -35,6 +35,8 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
   - Training the Network
   - Plotting Model History
   
+*Note: Please check the [issues](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV/issues) on this repo if you're having problems with the notebook.*
+
 ## Installation Instructions ('$' means run this in terminal/command prompt, do not type '$')
 ### Windows:
 * Install Anaconda (https://www.anaconda.com/download/) or Miniconda (https://conda.io/miniconda.html) to save hard drive space
