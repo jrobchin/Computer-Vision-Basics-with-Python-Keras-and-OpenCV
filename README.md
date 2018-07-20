@@ -115,11 +115,11 @@ The final demo can be seen [here](https://www.youtube.com/watch?v=IJV11OGTNT8) a
 * For Anaconda, double click the Anaconda3-5.0.1-MacOSX-x86_64.pkg file you downloaded
 
 #### Linux:
-* For Miniconda, open a terminal and navigate to the directory you downloaded Miniconda3-latest-MacOSX-x86_64.sh to and run:
+* For Miniconda, open a terminal and navigate to the directory you downloaded Miniconda3-latest-Linux-x86_64.sh to and run:
 
-        $ bash Miniconda3-latest-MacOSX-x86_64.sh
+        $ bash Miniconda3-latest-Linux-x86_64.sh
 
-* For Anaconda, open a terminal and navigate to the directory you downloaded Miniconda3-latest-MacOSX-x86_64.sh to and run:
+* For Anaconda, open a terminal and navigate to the directory you downloaded Anaconda3-5.0.1-Linux-x86_64.sh to and run:
 
         $ bash Anaconda3-5.0.1-Linux-x86_64.sh
 
