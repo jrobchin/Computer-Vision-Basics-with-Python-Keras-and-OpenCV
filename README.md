@@ -1,7 +1,5 @@
 # Tutorial: Computer Vision and Machine Learning with Python, Keras and OpenCV
 
-<a href="https://tracking.gitads.io/?repo=Computer-Vision-Basics-with-Python-Keras-and-OpenCV"><img src="https://images.gitads.io/Computer-Vision-Basics-with-Python-Keras-and-OpenCV" alt="GitAds"/></a>
-
 ### Includes a demonstration of concepts with Gesture Recognition.
 This was created as part of an educational for the [Western Founders Network](https://foundersnetwork.ca/) computer vision and machine learning educational session.
 
